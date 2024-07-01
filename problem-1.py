@@ -51,7 +51,6 @@ class Solution:
 # use dfs
 # for a particular row and column change it to the target color by moving 4 adjacent dimensionally
 # inside the for loop for directions array, keep recursively calling the dfs to the new affected color
-# and if changed store the value of the affected row and column in queue
 
 
 class Solution:
